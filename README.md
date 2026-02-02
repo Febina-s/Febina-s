@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febina-s&label=Profile%20views&color=0e75b6&style=flat" alt="febina-s" /> </p>
 
-- 🔭 I’m currently working on **Airbnb EDA project with python**
+- 🔭 I’m currently working on **Loan Credit Risk analysis using python**
 
 - 🌱 I’m currently learning **data cleaning, EDA, and dashboarding using Python and Power BI.**
 
-- 💬 Ask me about **sql,excel,python**
+- 💬 Ask me about **sql,excel,python,analysis**
 
 - 📫 How to reach me **febinasaleemr@gmail.com**
 
