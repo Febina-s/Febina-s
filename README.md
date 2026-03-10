@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=febina-s&label=Profile%20views&color=0e75b6&style=flat" alt="febina-s" /> </p>
 
-- 🔭 I’m currently working on **FLEET MANAGEMENT DASHBOARD**
+- 🔭 I’m currently working on **FLEET MANAGEMENT DASHBOARD PBI**
 
 - 🌱 I’m currently learning **data cleaning, EDA, and dashboarding using Python and Power BI.**
 
